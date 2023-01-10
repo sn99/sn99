@@ -18,6 +18,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sn99&repo=Optimizing-linux&show_icons=true)](https://github.com/sn99/Optimizing-linux)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sn99&repo=rust-ffi-examples&show_icons=true)](https://github.com/sn99/rust-ffi-examples)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sn99&repo=brainhug&show_icons=true)](https://github.com/sn99/brainhug)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sn99&repo=pakoda&show_icons=true)](https://github.com/sn99/pakoda)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sn99&repo=dota2_webapi_bindings&show_icons=true)](https://github.com/sn99/dota2_webapi_bindings)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sn99&repo=wasm-conway&show_icons=true)](https://github.com/sn99/wasm-conway)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sn99&repo=firefox-css&show_icons=true)](https://github.com/sn99/firefox-css)
