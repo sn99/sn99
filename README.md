@@ -28,3 +28,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sn99&repo=weird_os&show_icons=true)](https://github.com/sn99/weird_os)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sn99&repo=sam&show_icons=true)](https://github.com/sn99/sam)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sn99&repo=grachical-tic-tac-toe&show_icons=true)](https://github.com/sn99/grachical-tic-tac-toe)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sn99&repo=maggi&show_icons=true)](https://github.com/sn99/maggi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sn99&repo=sudoku-solver&show_icons=true)](https://github.com/sn99/sudoku-solver)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sn99&repo=sn99_alfred_bot&show_icons=true)](https://github.com/sn99/sn99_alfred_bot)
