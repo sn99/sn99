@@ -12,3 +12,18 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sn99&show_icons=true&theme=graywhite&layout=compact)
 
 </details>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sn99&repo=wasm-template-rust&show_icons=true)](https://github.com/sn99/wasm-template-rust)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sn99&repo=rust-practise-questions&show_icons=true&show_owner=true)](https://github.com/rust-unofficial/rust-practise-questions)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sn99&repo=Optimizing-linux&show_icons=true)](https://github.com/sn99/Optimizing-linux)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sn99&repo=rust-ffi-examples&show_icons=true)](https://github.com/sn99/rust-ffi-examples)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sn99&repo=brainhug&show_icons=true)](https://github.com/sn99/brainhug)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sn99&repo=dota2_webapi_bindings&show_icons=true)](https://github.com/sn99/dota2_webapi_bindings)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sn99&repo=wasm-conway&show_icons=true)](https://github.com/sn99/wasm-conway)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sn99&repo=firefox-css&show_icons=true)](https://github.com/sn99/firefox-css)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sn99&repo=pokemon-text-game&show_icons=true)](https://github.com/sn99/pokemon-text-game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sn99&repo=vague-os&show_icons=true)](https://github.com/sn99/vague-os)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sn99&repo=custom_traceroute&show_icons=true)](https://github.com/sn99/custom_traceroute)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sn99&repo=weird_os&show_icons=true)](https://github.com/sn99/weird_os)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sn99&repo=sam&show_icons=true)](https://github.com/sn99/sam)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sn99&repo=grachical-tic-tac-toe&show_icons=true)](https://github.com/sn99/grachical-tic-tac-toe)
