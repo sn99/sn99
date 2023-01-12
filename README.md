@@ -13,6 +13,10 @@
 
 </details>
 
+<details><summary>Some of my projects</summary>
+
+<br>  
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sn99&repo=wasm-template-rust&show_icons=true)](https://github.com/sn99/wasm-template-rust)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sn99&repo=rust-practise-questions&show_icons=true&show_owner=true)](https://github.com/rust-unofficial/rust-practise-questions)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sn99&repo=Optimizing-linux&show_icons=true)](https://github.com/sn99/Optimizing-linux)
@@ -31,3 +35,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sn99&repo=maggi&show_icons=true)](https://github.com/sn99/maggi)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sn99&repo=sudoku-solver&show_icons=true)](https://github.com/sn99/sudoku-solver)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sn99&repo=sn99_alfred_bot&show_icons=true)](https://github.com/sn99/sn99_alfred_bot)
+
+  </details>
+  
