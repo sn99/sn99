@@ -37,22 +37,22 @@
 
 <details><summary>Notable Contributions</summary>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SitinCloud&repo=Owlyshield&show_owner=trueshow_icons=true)](https://github.com/SitinCloud/Owlyshield/commits?author=sn99)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SitinCloud&repo=Owlyshield&show_owner=true&show_icons=true)](https://github.com/SitinCloud/Owlyshield/commits?author=sn99)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=purpleprotocol&repo=graphlib&show_owner=true)](https://github.com/purpleprotocol/graphlib/commits?author=sn99)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rust-lang-nursery&repo=rust-cookbook&show_owner=trueshow_icons=true)](https://github.com/rust-lang-nursery/rust-cookbook/commits?author=sn99)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rust-lang-nursery&repo=rust-cookbook&show_owner=true&show_icons=true)](https://github.com/rust-lang-nursery/rust-cookbook/commits?author=sn99)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thealgorithms&repo=Rust&show_owner=true)](https://github.com/TheAlgorithms/Rust/commits?author=sn99)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=intelliconnect&repo=rust-lang-apps&show_owner=true)](https://github.com/intelliconnect/rust-lang-apps/commits?author=sn99)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=regomne&repo=ilhook-rs&show_owner=trueshow_icons=true)](https://github.com/regomne/ilhook-rs/commits?author=sn99)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=o2sh&repo=add-one&show_owner=trueshow_icons=true)](https://github.com/o2sh/add-one/commits?author=sn99)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uuid-rs&repo=uuid&show_owner=trueshow_icons=true)](https://github.com/uuid-rs/uuid/commits?author=sn99)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rust-lang&repo=rustwide&show_owner=trueshow_icons=true)](https://github.com/rust-lang/rustwide/commits?author=sn99)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rust-lang&repo=rustc-perf&show_owner=trueshow_icons=true)](https://github.com/rust-lang/rustc-perf/commits?author=sn99)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rust-lang&repo=stacker&show_owner=trueshow_icons=true)](https://github.com/rust-lang/stacker/commits?author=sn99)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=regomne&repo=ilhook-rs&show_owner=true&show_icons=true)](https://github.com/regomne/ilhook-rs/commits?author=sn99)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=o2sh&repo=add-one&show_owner=true&show_icons=true)](https://github.com/o2sh/add-one/commits?author=sn99)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uuid-rs&repo=uuid&show_owner=true&show_icons=true)](https://github.com/uuid-rs/uuid/commits?author=sn99)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rust-lang&repo=rustwide&show_owner=true&show_icons=true)](https://github.com/rust-lang/rustwide/commits?author=sn99)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rust-lang&repo=rustc-perf&show_owner=true&show_icons=true)](https://github.com/rust-lang/rustc-perf/commits?author=sn99)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rust-lang&repo=stacker&show_owner=true&show_icons=true)](https://github.com/rust-lang/stacker/commits?author=sn99)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grantshandy&repo=ipgeolocate&show_owner=true&show_icons=true)](https://github.com/grantshandy/ipgeolocate/commits?author=sn99)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mozphoenixclubjuet&repo=Rust&show_owner=true)](https://github.com/MozPhoenixClubJUET/Rust/commits?author=sn99)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rust-unofficial&repo=awesome-rust&show_owner=true)](https://github.com/rust-unofficial/awesome-rust/commits?author=sn99)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=996icu&repo=996.ICU&show_owner=true)](https://github.com/996icu/996.ICU/commits?author=sn99)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codecrafters-io&repo=build-your-own-x&show_owner=true)](https://github.com/codecrafters-io/build-your-own-x/commits?author=sn99)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shellrow&repo=tracert&show_owner=trueshow_icons=true)](https://github.com/shellrow/tracert/commits?author=sn99)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shellrow&repo=tracert&show_owner=true&show_icons=true)](https://github.com/shellrow/tracert/commits?author=sn99)
 
 </details>  
