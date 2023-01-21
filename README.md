@@ -1,13 +1,18 @@
 <details><summary>I am a student</summary>
 
+<br>
+  
 [![linkedin](https://img.shields.io/badge/linkedin-%20Siddharth%20Naithani-informational?style=for-the-badge)](https://www.linkedin.com/in/siddharth-naithani-6b713a185/) [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/10962821?style=for-the-badge)](https://stackoverflow.com/users/10962821/sn99) [![Github](https://img.shields.io/badge/GITHUB-LINK-blue?style=for-the-badge&color=green)![GitHub followers](https://img.shields.io/github/followers/sn99?style=for-the-badge&color=green)![GitHub User's stars](https://img.shields.io/github/stars/sn99?style=for-the-badge&color=green)](https://github.com/sn99)
   
 ![sn99's GitHub stats](https://github-readme-stats.vercel.app/api?username=sn99&show_icons=true&theme=graywhite)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sn99&show_icons=true&theme=graywhite&layout=compact&langs_count=8)
 
 </details>
+
 <details><summary>Some of my projects</summary>
 
+<br>
+  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sn99&repo=wasm-template-rust&show_icons=true)](https://github.com/sn99/wasm-template-rust)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sn99&repo=rust-practise-questions&show_icons=true&show_owner=true)](https://github.com/rust-unofficial/rust-practise-questions)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sn99&repo=Optimizing-linux&show_icons=true)](https://github.com/sn99/Optimizing-linux)
@@ -33,6 +38,8 @@
 
 <details><summary>Notable Contributions</summary>
 
+<br>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SitinCloud&repo=Owlyshield&show_owner=true&show_icons=true)](https://github.com/SitinCloud/Owlyshield/commits?author=sn99)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=purpleprotocol&repo=graphlib&show_owner=true)](https://github.com/purpleprotocol/graphlib/commits?author=sn99)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rust-lang-nursery&repo=rust-cookbook&show_owner=true&show_icons=true)](https://github.com/rust-lang-nursery/rust-cookbook/commits?author=sn99)
@@ -51,4 +58,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codecrafters-io&repo=build-your-own-x&show_owner=true)](https://github.com/codecrafters-io/build-your-own-x/commits?author=sn99)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shellrow&repo=tracert&show_owner=true&show_icons=true)](https://github.com/shellrow/tracert/commits?author=sn99)
 
-</details>  
+</details>
