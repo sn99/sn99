@@ -4,7 +4,8 @@
   
 [![Github](https://img.shields.io/badge/GITHUB-LINK-blue?style=for-the-badge)](https://github.com/sn99) ![GitHub followers](https://img.shields.io/github/followers/sn99?style=for-the-badge) ![GitHub User's stars](https://img.shields.io/github/stars/sn99?style=for-the-badge)
 
-
+[![ds](https://img.shields.io/badge/linkedin-%20Siddharth%20Naithani-informational?style=for-the-badge)](https://www.linkedin.com/in/siddharth-naithani-6b713a185/)
+  
 <a href="https://stackoverflow.com/users/10962821/sn99"><img src="https://stackoverflow.com/users/flair/10962821.png" width="208" height="58" alt="profile for sn99 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for sn99 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
   
 
