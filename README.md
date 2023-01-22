@@ -1,4 +1,4 @@
-<details><summary>I am a student</summary>
+<details><summary>I am a CS student</summary>
 
 <br>
   
@@ -11,8 +11,8 @@
 
 <details><summary>Some of my projects</summary>
 
-<br>
-  
+<br> *In no particular order*
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sn99&repo=wasm-template-rust&show_icons=true)](https://github.com/sn99/wasm-template-rust)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sn99&repo=rust-practise-questions&show_icons=true&show_owner=true)](https://github.com/rust-unofficial/rust-practise-questions)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sn99&repo=Optimizing-linux&show_icons=true)](https://github.com/sn99/Optimizing-linux)
@@ -38,7 +38,7 @@
 
 <details><summary>Notable Contributions</summary>
 
-<br>
+<br> *In no particular order*
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SitinCloud&repo=Owlyshield&show_owner=true&show_icons=true)](https://github.com/SitinCloud/Owlyshield/commits?author=sn99)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=purpleprotocol&repo=graphlib&show_owner=true)](https://github.com/purpleprotocol/graphlib/commits?author=sn99)
