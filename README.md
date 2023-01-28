@@ -36,7 +36,7 @@
 
 </details>
 
-<details><summary>Some notable contributions</summary>
+<details><summary>Few notable contributions</summary>
 
 <br> *In no particular order \~*
 
