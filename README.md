@@ -1,4 +1,4 @@
-<details><summary>I am a CS student</summary>
+<details><summary>I am a CS student <i>~ Click Me</i></summary>
 
 <br>
 
@@ -9,7 +9,7 @@
 
 </details>
 
-<details><summary>Some of my projects</summary>
+<details><summary>Some of my projects <i>~ Click Me</i></summary>
 
 <br> *In no particular order \~*
 
@@ -36,7 +36,7 @@
 
 </details>
 
-<details><summary>Few notable contributions</summary>
+<details><summary>Few notable contributions <i>~ Click Me</i></summary>
 
 <br> *In no particular order \~*
 
