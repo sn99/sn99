@@ -1,4 +1,4 @@
-<details><summary>I am a CS student <i>~ Click Me</i></summary>
+  <details><summary>I work with Computers <i>~ Click Me</i></summary>
 
 <br>
 
